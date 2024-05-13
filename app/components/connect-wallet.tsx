@@ -1,5 +1,5 @@
-import { Button } from "@/components/ui/button";
+import { ConnectButton } from '@rainbow-me/rainbowkit';
 
 export default function Wallet() {
-  return <Button>Connect Wallet</Button>
+  return <ConnectButton />
 }
